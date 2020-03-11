@@ -14,4 +14,4 @@
 ## Practica
 
 [Practica1](https://github.com/kenshinsamue/UyA/tree/master/Practica1) 25/02/2020
-[Practica2]
+[Practica2](https://github.com/eduardoreyes99/UyA/tree/master/Pactica%202) 04/03/2020
